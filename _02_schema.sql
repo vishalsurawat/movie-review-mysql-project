@@ -66,12 +66,3 @@ CREATE TABLE reviews (
     CONSTRAINT uq_reviews_watchlist
         UNIQUE (watchlist_id)
 );
-SELECT version();
-DESC users ;
-DESC movies ;
-DESC movie ;
-DESC watchlist ;
-DESC reviews ;
-SHOW TABLES ;
-
-
