@@ -1,1 +1,2 @@
-CREATE DATABASE IF NOT EXISTS  movie_review_system ; 
+CREATE DATABASE IF NOT EXISTS  movie_review_system ;
+SHOW DATABASES ; 
